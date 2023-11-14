@@ -11,7 +11,7 @@ public class learning_test {
 	public void calci() {
 		int a=5, b = 10 ;
 		System.out.println("sum of a+b: " +(a+b) );
-		System.out.println("sum of a+b: " +(a*b) );
+		System.out.println("sum of a+b: " +(a-b) ); //changed in folder level
 		System.out.println("1 main end");
 				
 	}
