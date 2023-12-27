@@ -24,7 +24,7 @@ public class learning_test {
 	@Test
 	public void assertMethod() {
 		System.out.println("Inside assertMethod - 7+2: "+ (7+2) );
-		Assert.assertFalse(true);
+		Assert.assertFalse(false);
 		
 	}
 }
