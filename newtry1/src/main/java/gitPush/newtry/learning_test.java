@@ -18,7 +18,7 @@ public class learning_test {
 
 	@Test
 	public void codedInGit(){
-		System.out.println("Added this method in Git" );
+		System.out.println("Updated this method in local" );
 	}
 	
 	@Test
