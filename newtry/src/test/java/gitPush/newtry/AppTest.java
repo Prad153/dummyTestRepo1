@@ -16,5 +16,6 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
+        System.out.println("user defined class from test java folder");
     }
 }

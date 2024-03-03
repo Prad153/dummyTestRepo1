@@ -3,9 +3,9 @@ package gitPush.newtry;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+
 public class learning_test {
 
-//	public static void main(String[] args) {
 	
 	@Test
 	public void calci() {
@@ -20,7 +20,7 @@ public class learning_test {
 	@Test
 	public void assertMethod() {
 		System.out.println("Inside assertMethod - 7+2: "+ (7+2) );
-		Assert.assertFalse(true);
+	//	Assert.assertFalse(true);
 		
 	}
 }

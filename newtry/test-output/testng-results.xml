@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-14T11:51:39 IST" name="Suite" finished-at="2023-11-14T11:51:40 IST" duration-ms="222">
+  <suite started-at="2023-12-27T13:00:12 IST" name="Default suite" finished-at="2023-12-27T13:00:12 IST" duration-ms="210">
     <groups>
     </groups>
-    <test started-at="2023-11-14T11:51:39 IST" name="Test" finished-at="2023-11-14T11:51:40 IST" duration-ms="222">
+    <test started-at="2023-12-27T13:00:12 IST" name="Default test" finished-at="2023-12-27T13:00:12 IST" duration-ms="210">
       <class name="gitPush.newtry.learning_test">
-        <test-method signature="assertMethod()[pri:0, instance:gitPush.newtry.learning_test@669513d8]" started-at="2023-11-14T11:51:40 IST" name="assertMethod" finished-at="2023-11-14T11:51:40 IST" duration-ms="53" status="PASS">
+        <test-method signature="assertMethod()[pri:0, instance:gitPush.newtry.learning_test@669513d8]" started-at="2023-12-27T13:00:12 IST" name="assertMethod" finished-at="2023-12-27T13:00:12 IST" duration-ms="44" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- assertMethod -->
-        <test-method signature="calci()[pri:0, instance:gitPush.newtry.learning_test@669513d8]" started-at="2023-11-14T11:51:40 IST" name="calci" finished-at="2023-11-14T11:51:40 IST" duration-ms="16" status="PASS">
+        <test-method signature="calci()[pri:0, instance:gitPush.newtry.learning_test@669513d8]" started-at="2023-12-27T13:00:12 IST" name="calci" finished-at="2023-12-27T13:00:12 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- calci -->
       </class> <!-- gitPush.newtry.learning_test -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
