@@ -73,7 +73,11 @@
 	        <version>3.2.2</version>
 		        <configuration>
 			          <suiteXmlFiles>
+<<<<<<< HEAD:newtry/pom.xml
 			           		 <suiteXmlFile>testng.xml</suiteXmlFile> !-- ${fileName} testng.xml
+=======
+			           		 <suiteXmlFile>testng.xml</suiteXmlFile> !--${fileName}
+>>>>>>> c0c89b5f928408c77c84140e6d7868705854db18:newtry1/pom.xml
 			          </suiteXmlFiles>
 		        </configuration>
         </plugin>
